@@ -2,6 +2,11 @@
 
 An advanced gameplay analysis tool that processes Valorant gameplay videos to provide comprehensive insights, statistics, and visualizations.
 
+
+![Image Description](https://res.cloudinary.com/dogfmhpfc/image/upload/v1738415038/WhatsApp_Image_2025-02-01_at_18.31.50_085e0664_a3fjsp.jpg)
+
+
+
 ## 🌟 Features
 
 ### 1. Real-time Game Analysis
