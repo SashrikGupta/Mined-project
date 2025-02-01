@@ -3,7 +3,7 @@
 An advanced gameplay analysis tool that processes Valorant gameplay videos to provide comprehensive insights, statistics, and visualizations.
 
 
-![Image Description](https://res.cloudinary.com/dogfmhpfc/image/upload/v1738416115/Blank_diagram_ipcgpz.png)
+![Image Description](https://res.cloudinary.com/dogfmhpfc/image/upload/v1738416201/Blank_diagram_1_ytcaui.png)
 
 
 
