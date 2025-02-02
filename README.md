@@ -1,11 +1,12 @@
+## 🏆 Hackathon Recognition
+
+This project was the **hackathon winner** at **MINED**, organized by **Nirma University** and **School of System Science and Industrial Engineering**. The problem statement was provided by the company **Glitch**.
+
 # Gameplay Analyzer 🎮
 
 An advanced gameplay analysis tool that processes Valorant gameplay videos to provide comprehensive insights, statistics, and visualizations.
 
-
 ![Image Description](https://res.cloudinary.com/dogfmhpfc/image/upload/v1738416201/Blank_diagram_1_ytcaui.png)
-
-
 
 ## 🌟 Features
 
@@ -52,7 +53,7 @@ An advanced gameplay analysis tool that processes Valorant gameplay videos to pr
 - LangChain
 - YOLO (Ultralytics)
 
-## 📦 Installation
+## 🛆 Installation
 
 1. Clone the repository:
 ```bash
@@ -120,8 +121,7 @@ streamlit run stream.py --server.enableXsrfProtection false
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-
-## Acknowledgments
+## 📚 Acknowledgments
 
 - YOLO model for object detection
 - Streamlit for the web interface
@@ -129,6 +129,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - LangChain for natural language processing
 - OpenCV for video processing
 
-## Note
+## 📅 Note
 
 This tool is designed for educational and analytical purposes. It is not affiliated with Riot Games or Valorant.
+
