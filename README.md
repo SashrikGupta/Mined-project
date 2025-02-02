@@ -1,6 +1,14 @@
 ## 🏆 Hackathon Recognition
 
-This project was the **hackathon winner** at **MINED**, organized by **Nirma University** and **School of System Science and Industrial Engineering**. The problem statement was provided by the company **Glitch**.
+This project was the **hackathon winner** at **MINED**, organized by **Nirma University** and **School of System Science and Industrial Engineering**. The problem statement was provided by the company **GlitchOver**.
+
+the team : 
+
+* Sashrik Gupta
+* Akshat Vaja
+* Aarya Gopani
+* Vasu Boda
+* Achyut Dave
 
 # Gameplay Analyzer 🎮
 
