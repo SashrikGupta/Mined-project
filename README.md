@@ -126,7 +126,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- YOLO for object detection
+- YOLO model for object detection
 - Streamlit for the web interface
 - Google's Generative AI for gameplay analysis
 - LangChain for natural language processing
